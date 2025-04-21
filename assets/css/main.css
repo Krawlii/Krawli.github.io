@@ -678,7 +678,7 @@ h6 a {
   padding: 6px 12px; /* Smaller padding */
   border-radius: 20px; /* Smaller rounded corners */
   font-size: 14px; /* Smaller font size */
-  font-family: 'Copperplate', cursive; /* Matching the title's font */
+  font-family: 'Copperplate'; /* Matching the title's font */
   text-decoration: none; /* Removing underline */
   font-weight: bold;
   letter-spacing: 0.5px; /* Slight spacing between letters */
